@@ -1,5 +1,7 @@
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: Mina-rs, Research for ChainSafe Systems
+- 🔭 I’m currently working on: Research for ChainSafe Systems
+
+[Check out my blog](https://willemolding.github.io/)
 
 [![willemolding's GitHub stats](https://github-readme-stats.vercel.app/api?username=willemolding&show_icons=true&theme=vue-dark)](https://github.com/willemolding/github-readme-stats)
 
