@@ -1,5 +1,5 @@
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: Research for ChainSafe Systems, OP Stack in Rust
+- 🔭 I’m currently working on: Research for ChainSafe Systems, OP Stack in Rust, Autonomous Worlds Games
 
 [Check out my blog](https://willemolding.github.io/)
 
